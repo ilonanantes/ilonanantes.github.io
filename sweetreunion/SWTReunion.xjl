@@ -1,0 +1,11 @@
+%title(The SoulPhoenixs)
+%h3
+	<a href="LivretSweetReunion.pdf" download="SweetReunion.pdf">Télécharger le livret</a>	
+	<a href="LivretSweetReunion.pdf" download="SweetReunion.pdf">%i(Download the booklet)</a>
+%l+LivretSweetReunion.pdf(%image+80%(SweetReunion_Page_1.jpg))
+%l+LivretSweetReunion.pdf(%image+80%(SweetReunion_Page_2.jpg))
+%l+LivretSweetReunion.pdf(%image+80%(SweetReunion_Page_3.jpg))
+%l+LivretSweetReunion.pdf(%image+80%(SweetReunion_Page_4.jpg))
+%h3
+	<a href="LivretSweetReunion.pdf" download="SweetReunion.pdf">Télécharger le livret</a>	
+	<a href="LivretSweetReunion.pdf" download="SweetReunion.pdf">%i(Download the booklet)</a>

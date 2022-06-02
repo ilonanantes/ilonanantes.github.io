@@ -1,0 +1,6 @@
+Le site Web se trouve sur le Github ilonanantes
+Utiliser l'appli locale GitHub Desktop
+et faire des commit suivis de publish ou tenter d'éditer directement sur le site.
+
+Sur BookMyName, domaine  thesoulphoenixs.fr
+avec redirections Web
